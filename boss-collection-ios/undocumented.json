@@ -1,0 +1,712 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ApiMap/collectionApiMap.swift",
+      "line": 14,
+      "symbol": "creatpara",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ApiMap/collectionApiMap.swift",
+      "line": 16,
+      "symbol": "collectionApiMap",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ApiMap/collectionApiMap.swift",
+      "line": 44,
+      "symbol": "collectionApiMap",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ModuleConfig/ProcurationModuleConfig.swift",
+      "line": 4,
+      "symbol": "ProcurationModuleConfig",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ModuleConfig/ProcurationModuleConfig.swift",
+      "line": 6,
+      "symbol": "ProcurationModuleConfig.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ModuleConfig/ProcurationModuleConfig.swift",
+      "line": 12,
+      "symbol": "ProcurationModuleConfig.LoginStoryboard",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ModuleConfig/ProcurationModuleConfig.swift",
+      "line": 29,
+      "symbol": "ProcurationModuleConfig.uploadProcurationTipVc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ModuleConfig/ProcurationModuleConfig.swift",
+      "line": 33,
+      "symbol": "ProcurationModuleConfig.upLoadProcuratorInfoVc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ModuleConfig/ProcurationModuleConfig.swift",
+      "line": 38,
+      "symbol": "ProcurationModuleConfig.uploadProcuratorInfoDeatailVc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ModuleConfig/ProcurationModuleConfig.swift",
+      "line": 42,
+      "symbol": "ProcurationModuleConfig.singVc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ModuleConfig/ProcurationModuleConfig.swift",
+      "line": 45,
+      "symbol": "ProcurationModuleConfig.singleSuccessAlertView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/SingVc.swift",
+      "line": 18,
+      "symbol": "SingVc",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/SingVc.swift",
+      "line": 50,
+      "symbol": "SingVc.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UpLoadProcuratorInfoVc.swift",
+      "line": 13,
+      "symbol": "UpLoadProcuratorInfoVc",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UpLoadProcuratorInfoVc.swift",
+      "line": 55,
+      "symbol": "UpLoadProcuratorInfoVc.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcurationTipVc.swift",
+      "line": 12,
+      "symbol": "UploadProcurationTipVc",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcurationTipVc.swift",
+      "line": 16,
+      "symbol": "UploadProcurationTipVc.teamid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcurationTipVc.swift",
+      "line": 18,
+      "symbol": "UploadProcurationTipVc.biz_district_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcurationTipVc.swift",
+      "line": 20,
+      "symbol": "UploadProcurationTipVc.staff_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcurationTipVc.swift",
+      "line": 23,
+      "symbol": "UploadProcurationTipVc.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 15,
+      "symbol": "cellType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 16,
+      "symbol": "cellType.header",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 17,
+      "symbol": "cellType.textFieldNoneEdit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 18,
+      "symbol": "cellType.textFieldEdit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 19,
+      "symbol": "cellType.selectType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 20,
+      "symbol": "cellType.notselectType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 21,
+      "symbol": "cellType.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 22,
+      "symbol": "cellType.imageEdit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 26,
+      "symbol": "commitType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 27,
+      "symbol": "commitType.commit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 28,
+      "symbol": "commitType.cancel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 29,
+      "symbol": "commitType.withdraw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 32,
+      "symbol": "UploadProcuratorInfoDeatailVc",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 111,
+      "symbol": "UploadProcuratorInfoDeatailVc.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 386,
+      "symbol": "UploadProcuratorInfoDeatailVc",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 387,
+      "symbol": "UploadProcuratorInfoDeatailVc.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 391,
+      "symbol": "UploadProcuratorInfoDeatailVc.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/Vc/UploadProcuratorInfoDeatailVc.swift",
+      "line": 431,
+      "symbol": "UploadProcuratorInfoDeatailVc.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/View/SingleSuccessAlertView.swift",
+      "line": 13,
+      "symbol": "SingleSuccessAlertView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/View/SingleSuccessAlertView.swift",
+      "line": 28,
+      "symbol": "SingleSuccessAlertView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/View/SingleSuccessAlertView.swift",
+      "line": 66,
+      "symbol": "SingleSuccessAlertView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/View/SingleSuccessAlertView.swift",
+      "line": 67,
+      "symbol": "SingleSuccessAlertView.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/View/SingleSuccessAlertView.swift",
+      "line": 71,
+      "symbol": "SingleSuccessAlertView.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/ViewModel/singleViewModel.swift",
+      "line": 15,
+      "symbol": "singleViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/ViewModel/singleViewModel.swift",
+      "line": 18,
+      "symbol": "singleViewModel.errorObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/ViewModel/singleViewModel.swift",
+      "line": 21,
+      "symbol": "singleViewModel.singleInfoObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/ViewModel/singleViewModel.swift",
+      "line": 24,
+      "symbol": "singleViewModel.singleObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/ViewModel/singleViewModel.swift",
+      "line": 33,
+      "symbol": "singleViewModel.init(input:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/ViewModel/singleViewModel.swift",
+      "line": 90,
+      "symbol": "singleViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/ProcurationBank/ViewModel/singleViewModel.swift",
+      "line": 91,
+      "symbol": "singleViewModel.Input",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/Router/ProcurationRouter.swift",
+      "line": 13,
+      "symbol": "ProcurationRouter",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionKnight/Router/ProcurationRouter.swift",
+      "line": 15,
+      "symbol": "ProcurationRouter.initialize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/API/collectionOwnerApiMap.swift",
+      "line": 14,
+      "symbol": "collectionState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/API/collectionOwnerApiMap.swift",
+      "line": 30,
+      "symbol": "collectionOwnerApiMap",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/API/collectionOwnerApiMap.swift",
+      "line": 39,
+      "symbol": "collectionOwnerApiMap.rejectedcollectList(team_id:state:staff_id:biz_district_id:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/API/collectionOwnerApiMap.swift",
+      "line": 42,
+      "symbol": "collectionOwnerApiMap",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ModuleConfig/CollectionOwnerModule.swift",
+      "line": 10,
+      "symbol": "CollectionOwnerModule",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ModuleConfig/CollectionOwnerModule.swift",
+      "line": 12,
+      "symbol": "CollectionOwnerModule.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ModuleConfig/CollectionOwnerModule.swift",
+      "line": 18,
+      "symbol": "CollectionOwnerModule.LoginStoryboard",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ModuleConfig/CollectionOwnerModule.swift",
+      "line": 35,
+      "symbol": "CollectionOwnerModule.collectionListOwnerVc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ModuleConfig/CollectionOwnerModule.swift",
+      "line": 39,
+      "symbol": "CollectionOwnerModule.collectionOwnerDetaileVc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ModuleConfig/CollectionOwnerModule.swift",
+      "line": 44,
+      "symbol": "CollectionOwnerModule.collectionListVc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListOwnerVc.swift",
+      "line": 13,
+      "symbol": "CollectionListOwnerVc",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListOwnerVc.swift",
+      "line": 15,
+      "symbol": "CollectionListOwnerVc.team_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListOwnerVc.swift",
+      "line": 17,
+      "symbol": "CollectionListOwnerVc.biz_district_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListOwnerVc.swift",
+      "line": 19,
+      "symbol": "CollectionListOwnerVc.staff_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListOwnerVc.swift",
+      "line": 39,
+      "symbol": "CollectionListOwnerVc.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListOwnerVc.swift",
+      "line": 61,
+      "symbol": "CollectionListOwnerVc.viewControllers(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 13,
+      "symbol": "collectionstate",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 14,
+      "symbol": "collectionstate.processed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 15,
+      "symbol": "collectionstate.agreed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 16,
+      "symbol": "collectionstate.rejected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 17,
+      "symbol": "collectionstate.knight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 20,
+      "symbol": "CollectionListVc",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 26,
+      "symbol": "CollectionListVc.team_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 28,
+      "symbol": "CollectionListVc.biz_district_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 34,
+      "symbol": "CollectionListVc.staff_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 37,
+      "symbol": "CollectionListVc.showTips",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 39,
+      "symbol": "CollectionListVc.itemInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 43,
+      "symbol": "CollectionListVc.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 45,
+      "symbol": "CollectionListVc.stateList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 62,
+      "symbol": "CollectionListVc.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 75,
+      "symbol": "CollectionListVc.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 92,
+      "symbol": "CollectionListVc.indicatorInfo(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 151,
+      "symbol": "CollectionListVc",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 153,
+      "symbol": "CollectionListVc.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 166,
+      "symbol": "CollectionListVc.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionListVc.swift",
+      "line": 170,
+      "symbol": "CollectionListVc.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionOwnerDetaileVc.swift",
+      "line": 13,
+      "symbol": "CollectionOwnerDetaileVc",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionOwnerDetaileVc.swift",
+      "line": 43,
+      "symbol": "CollectionOwnerDetaileVc.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionOwnerDetaileVc.swift",
+      "line": 125,
+      "symbol": "CollectionOwnerDetaileVc",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionOwnerDetaileVc.swift",
+      "line": 126,
+      "symbol": "CollectionOwnerDetaileVc.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionOwnerDetaileVc.swift",
+      "line": 129,
+      "symbol": "CollectionOwnerDetaileVc.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/VC/CollectionOwnerDetaileVc.swift",
+      "line": 150,
+      "symbol": "CollectionOwnerDetaileVc.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ViewModel/CollectionDetailViewModel.swift",
+      "line": 15,
+      "symbol": "CollectionDetailViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ViewModel/CollectionDetailViewModel.swift",
+      "line": 18,
+      "symbol": "CollectionDetailViewModel.errorObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ViewModel/CollectionDetailViewModel.swift",
+      "line": 33,
+      "symbol": "CollectionDetailViewModel.init(input:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ViewModel/CollectionDetailViewModel.swift",
+      "line": 92,
+      "symbol": "CollectionDetailViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/ViewModel/CollectionDetailViewModel.swift",
+      "line": 93,
+      "symbol": "CollectionDetailViewModel.Input",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/router/CollectionOwnerRouter.swift",
+      "line": 12,
+      "symbol": "CollectionOwnerRouter",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-collection-ios/boss-collection-ios/Classes/collectionOwner/router/CollectionOwnerRouter.swift",
+      "line": 14,
+      "symbol": "CollectionOwnerRouter.initialize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

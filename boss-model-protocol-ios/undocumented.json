@@ -1,0 +1,82 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/BOSSModelProtocol.swift",
+      "line": 5,
+      "symbol": "BOSSModelProtocol.init(fromJson:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 9,
+      "symbol": "ErrorModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 11,
+      "symbol": "ErrorModel.errCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 12,
+      "symbol": "ErrorModel.domain",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 13,
+      "symbol": "ErrorModel.UserInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 14,
+      "symbol": "ErrorModel.zhMessage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 29,
+      "symbol": "ErrorModel.init(errCode:domain:UserInfo:zhMessage:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 37,
+      "symbol": "ErrorModel.init(errCode:zhMessage:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 45,
+      "symbol": "ErrorModel.init(error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 103,
+      "symbol": "ErrorModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-model-protocol-ios/boss-model-protocol-ios/Classes/ErrorModel.swift",
+      "line": 105,
+      "symbol": "ErrorModel.isEffective()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

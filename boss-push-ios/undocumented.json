@@ -1,0 +1,75 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 29,
+      "symbol": "BossPushManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 30,
+      "symbol": "BossPushManager.manager",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 32,
+      "symbol": "BossPushManager.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 34,
+      "symbol": "BossPushManager.deviceId",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 40,
+      "symbol": "BossPushManager.autoinit()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 52,
+      "symbol": "BossPushManager.registerAPNs(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 74,
+      "symbol": "BossPushManager.listenOnChannelOpened()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 86,
+      "symbol": "BossPushManager.registerMessageReceive()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 103,
+      "symbol": "BossPushManager.userNotificationCenter(_:didReceive:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-push-ios/boss-push-ios/Classes/BossPushManager.swift",
+      "line": 141,
+      "symbol": "BossPushManager.userNotificationCenter(_:willPresent:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

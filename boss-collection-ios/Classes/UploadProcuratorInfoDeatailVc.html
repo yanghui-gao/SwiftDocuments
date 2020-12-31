@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>UploadProcuratorInfoDeatailVc Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+    <script src="../js/lunr.min.js" defer></script>
+    <script src="../js/typeahead.jquery.js" defer></script>
+    <script src="../js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/UploadProcuratorInfoDeatailVc" class="dashAnchor"></a>
+    <a title="UploadProcuratorInfoDeatailVc Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html">aoao-boss-ios Docs</a> (28% documented)</p>
+        <p class="header-right">
+          <form role="search" action="../search.json">
+            <input type="text" placeholder="Search documentation" data-typeahead>
+          </form>
+        </p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html">aoao-boss-ios Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        UploadProcuratorInfoDeatailVc Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/CollectionDetailViewModel.html">CollectionDetailViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CollectionDetailViewModel.html#/s:19boss_collection_ios25CollectionDetailViewModelC5InputV">– Input</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CollectionListOwnerVc.html">CollectionListOwnerVc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CollectionListVc.html">CollectionListVc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CollectionOwnerDetaileVc.html">CollectionOwnerDetaileVc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CollectionOwnerModule.html">CollectionOwnerModule</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ProcurationModuleConfig.html">ProcurationModuleConfig</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SingVc.html">SingVc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SingleSuccessAlertView.html">SingleSuccessAlertView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/UpLoadProcuratorInfoVc.html">UpLoadProcuratorInfoVc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/UploadProcurationTipVc.html">UploadProcurationTipVc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/UploadProcuratorInfoDeatailVc.html">UploadProcuratorInfoDeatailVc</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/singleViewModel.html">singleViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/singleViewModel.html#/s:19boss_collection_ios15singleViewModelC5InputV">– Input</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/cellType.html">cellType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/collectionApiMap.html">collectionApiMap</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/collectionOwnerApiMap.html">collectionOwnerApiMap</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/collectionState.html">collectionState</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/collectionstate.html">collectionstate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/commitType.html">commitType</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/CollectionOwnerRouter.html">CollectionOwnerRouter</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ProcurationRouter.html">ProcurationRouter</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Typealiases.html">Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:19boss_collection_ios9creatparaa">creatpara</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>UploadProcuratorInfoDeatailVc</h1>
+              <div class="declaration">
+                <div class="language">
+                  
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">UploadProcuratorInfoDeatailVc</span> <span class="p">:</span> <span class="kt">BossViewController</span><span class="p">,</span> <span class="kt">UITableViewDelegate</span><span class="p">,</span> <span class="kt">UITableViewDataSource</span></code></pre>
+
+                </div>
+              </div>
+            <p>Undocumented</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC7team_idSSSgvp"></a>
+                    <a name="//apple_ref/swift/Property/team_id" class="dashAnchor"></a>
+                    <a class="token" href="#/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC7team_idSSSgvp">team_id</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>team_id</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">team_id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC15biz_district_idSSSgvp"></a>
+                    <a name="//apple_ref/swift/Property/biz_district_id" class="dashAnchor"></a>
+                    <a class="token" href="#/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC15biz_district_idSSSgvp">biz_district_id</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>biz_district_id</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">biz_district_id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC8staff_idSSSgvp"></a>
+                    <a name="//apple_ref/swift/Property/staff_id" class="dashAnchor"></a>
+                    <a class="token" href="#/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC8staff_idSSSgvp">staff_id</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>staff_id</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">staff_id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC8recordidSSSgvp"></a>
+                    <a name="//apple_ref/swift/Property/recordid" class="dashAnchor"></a>
+                    <a class="token" href="#/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC8recordidSSSgvp">recordid</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>代收申请记录ID(有ID才传) 编辑时传 详情时传</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">recordid</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC13bankCardModel0a8_camera_C0012baiduOcrBankfK0CSgvp"></a>
+                    <a name="//apple_ref/swift/Property/bankCardModel" class="dashAnchor"></a>
+                    <a class="token" href="#/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC13bankCardModel0a8_camera_C0012baiduOcrBankfK0CSgvp">bankCardModel</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>银行卡model</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">bankCardModel</span><span class="p">:</span> <span class="n">baiduOcrBankInfoModel</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC22procuratorIDCardIModel0a8_camera_C00J10FrontModelCSgvp"></a>
+                    <a name="//apple_ref/swift/Property/procuratorIDCardIModel" class="dashAnchor"></a>
+                    <a class="token" href="#/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC22procuratorIDCardIModel0a8_camera_C00J10FrontModelCSgvp">procuratorIDCardIModel</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>代收人身份证人像面model</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">procuratorIDCardIModel</span><span class="p">:</span> <span class="kt">IDCardFrontModel</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC29procuratiorIDCardReverseModel0a8_camera_C0016DetectIdCardBackL0CSgvp"></a>
+                    <a name="//apple_ref/swift/Property/procuratiorIDCardReverseModel" class="dashAnchor"></a>
+                    <a class="token" href="#/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC29procuratiorIDCardReverseModel0a8_camera_C0016DetectIdCardBackL0CSgvp">procuratiorIDCardReverseModel</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>代收人身份证model</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">procuratiorIDCardReverseModel</span><span class="p">:</span> <span class="kt">DetectIdCardBackModel</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC13effectiveDateSSSgvp"></a>
+                    <a name="//apple_ref/swift/Property/effectiveDate" class="dashAnchor"></a>
+                    <a class="token" href="#/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC13effectiveDateSSSgvp">effectiveDate</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>有效期</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">effectiveDate</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC13currentStatus0a8_common_C019procuratorOrderTypeOSgvp"></a>
+                    <a name="//apple_ref/swift/Property/currentStatus" class="dashAnchor"></a>
+                    <a class="token" href="#/s:19boss_collection_ios29UploadProcuratorInfoDeatailVcC13currentStatus0a8_common_C019procuratorOrderTypeOSgvp">currentStatus</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>当前审批流状态 不存在代表 识别进入 存在代表 列表进入</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">currentStatus</span><span class="p">:</span> <span class="n">procuratorOrderType</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_collection_ios@objc(cs)UploadProcuratorInfoDeatailVc(im)viewDidLoad"></a>
+                    <a name="//apple_ref/swift/Method/viewDidLoad()" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_collection_ios@objc(cs)UploadProcuratorInfoDeatailVc(im)viewDidLoad">viewDidLoad()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">override</span> <span class="kd">public</span> <span class="kd">func</span> <span class="nf">viewDidLoad</span><span class="p">()</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@CM@boss_collection_ios@objc(cs)UploadProcuratorInfoDeatailVc(im)tableView:numberOfRowsInSection:"></a>
+                    <a name="//apple_ref/swift/Method/tableView(_:numberOfRowsInSection:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@CM@boss_collection_ios@objc(cs)UploadProcuratorInfoDeatailVc(im)tableView:numberOfRowsInSection:">tableView(_:<wbr>numberOfRowsInSection:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">tableView</span><span class="p">(</span><span class="n">_</span> <span class="nv">tableView</span><span class="p">:</span> <span class="kt">UITableView</span><span class="p">,</span> <span class="n">numberOfRowsInSection</span> <span class="nv">section</span><span class="p">:</span> <span class="kt">Int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Int</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@CM@boss_collection_ios@objc(cs)UploadProcuratorInfoDeatailVc(im)tableView:cellForRowAtIndexPath:"></a>
+                    <a name="//apple_ref/swift/Method/tableView(_:cellForRowAt:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@CM@boss_collection_ios@objc(cs)UploadProcuratorInfoDeatailVc(im)tableView:cellForRowAtIndexPath:">tableView(_:<wbr>cellForRowAt:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">tableView</span><span class="p">(</span><span class="n">_</span> <span class="nv">tableView</span><span class="p">:</span> <span class="kt">UITableView</span><span class="p">,</span> <span class="n">cellForRowAt</span> <span class="nv">indexPath</span><span class="p">:</span> <span class="kt">IndexPath</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UITableViewCell</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@CM@boss_collection_ios@objc(cs)UploadProcuratorInfoDeatailVc(im)tableView:didSelectRowAtIndexPath:"></a>
+                    <a name="//apple_ref/swift/Method/tableView(_:didSelectRowAt:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@CM@boss_collection_ios@objc(cs)UploadProcuratorInfoDeatailVc(im)tableView:didSelectRowAtIndexPath:">tableView(_:<wbr>didSelectRowAt:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">tableView</span><span class="p">(</span><span class="n">_</span> <span class="nv">tableView</span><span class="p">:</span> <span class="kt">UITableView</span><span class="p">,</span> <span class="n">didSelectRowAt</span> <span class="nv">indexPath</span><span class="p">:</span> <span class="kt">IndexPath</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2020 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2020-12-31)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.6</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>

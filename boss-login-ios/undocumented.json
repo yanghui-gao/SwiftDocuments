@@ -1,0 +1,257 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/JoinTeamModule/VC/BankCardFinshVc.swift",
+      "line": 13,
+      "symbol": "BankCardFinshVc",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/JoinTeamModule/VC/BankCardFinshVc.swift",
+      "line": 18,
+      "symbol": "BankCardFinshVc.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 17,
+      "symbol": "ALIYUNSECRET",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 22,
+      "symbol": "AliSIMLoginViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 24,
+      "symbol": "AliSIMLoginViewModel.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 26,
+      "symbol": "AliSIMLoginViewModel.outPutgetlicenseObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 28,
+      "symbol": "AliSIMLoginViewModel.outPutLoginObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 30,
+      "symbol": "AliSIMLoginViewModel.errorObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 32,
+      "symbol": "AliSIMLoginViewModel.init(input:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 66,
+      "symbol": "AliSIMLoginViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 67,
+      "symbol": "AliSIMLoginViewModel.input",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 72,
+      "symbol": "AliSIMLoginViewModel.input.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 75,
+      "symbol": "AliSIMLoginViewModel.input.init(aliSIMLoginObservable:throughTokenToLoginObservable:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 80,
+      "symbol": "AliSIMLoginViewModel.input.init(aliSIMLoginObservable:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/LoginorRegisterModule/ViewModel/AliSIMLoginViewModel.swift",
+      "line": 84,
+      "symbol": "AliSIMLoginViewModel.input.init(throughTokenToLoginObservable:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/RequestMap/LoginRequestMap.swift",
+      "line": 14,
+      "symbol": "fixUserInfoPara",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/RequestMap/LoginRequestMap.swift",
+      "line": 16,
+      "symbol": "fixBankInfoPara",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/RequestMap/LoginRequestMap.swift",
+      "line": 26,
+      "symbol": "LoginRequestMap",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/RequestMap/LoginRequestMap.swift",
+      "line": 28,
+      "symbol": "LoginRequestMap.getCode(phone:if_voice:event:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/RequestMap/LoginRequestMap.swift",
+      "line": 30,
+      "symbol": "LoginRequestMap.validationCode(phone:code:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/RequestMap/LoginRequestMap.swift",
+      "line": 32,
+      "symbol": "LoginRequestMap.fixUserInfo(para:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/RequestMap/LoginRequestMap.swift",
+      "line": 34,
+      "symbol": "LoginRequestMap.fixBankInfo(para:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/RequestMap/LoginRequestMap.swift",
+      "line": 43,
+      "symbol": "LoginRequestMap",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/JoinTeamModule.swift",
+      "line": 10,
+      "symbol": "JoinTeamModule",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/JoinTeamModule.swift",
+      "line": 12,
+      "symbol": "JoinTeamModule.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/JoinTeamModule.swift",
+      "line": 16,
+      "symbol": "JoinTeamModule.joinTeamStoryboard",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/LoginMoudleURLNavigationMap.swift",
+      "line": 14,
+      "symbol": "LoginMoudleURLNavigationMap",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/LoginMoudleURLNavigationMap.swift",
+      "line": 16,
+      "symbol": "LoginMoudleURLNavigationMap.initialize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/LoginMoudule.swift",
+      "line": 14,
+      "symbol": "LoginMoudule",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/LoginMoudule.swift",
+      "line": 16,
+      "symbol": "LoginMoudule.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/LoginMoudule.swift",
+      "line": 32,
+      "symbol": "LoginMoudule.InputPhoneViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/LoginMoudule.swift",
+      "line": 36,
+      "symbol": "LoginMoudule.oneLoginFailVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/View/HLoadingView.swift",
+      "line": 10,
+      "symbol": "HLoadingView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/View/HLoadingView.swift",
+      "line": 16,
+      "symbol": "HLoadingView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/View/HLoadingView.swift",
+      "line": 33,
+      "symbol": "UIView.showHLoadingMessage(message:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-login-ios/boss-login-ios/Classes/Router/View/HLoadingView.swift",
+      "line": 49,
+      "symbol": "UIView.dissmissHLoadingView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

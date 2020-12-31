@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>WorkFileListVC Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+    <script src="../js/lunr.min.js" defer></script>
+    <script src="../js/typeahead.jquery.js" defer></script>
+    <script src="../js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/WorkFileListVC" class="dashAnchor"></a>
+    <a title="WorkFileListVC Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html">aoao-boss-ios Docs</a> (11% documented)</p>
+        <p class="header-right">
+          <form role="search" action="../search.json">
+            <input type="text" placeholder="Search documentation" data-typeahead>
+          </form>
+        </p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html">aoao-boss-ios Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        WorkFileListVC Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/ArchivesBaseVC.html">ArchivesBaseVC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ArchivesBaseViewModel.html">ArchivesBaseViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ArchivesBaseViewModel.html#/s:20boss_workingfile_ios21ArchivesBaseViewModelC5InputV">– Input</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ContractChangeDateVC.html">ContractChangeDateVC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ContractChangeDateViewModel.html">ContractChangeDateViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ContractChangeDateViewModel.html#/s:20boss_workingfile_ios27ContractChangeDateViewModelC5InputV">– Input</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ContractErrorModel.html">ContractErrorModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ContractInfoModel.html">ContractInfoModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ContractListVC.html">ContractListVC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ContractListViewModel.html">ContractListViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ContractListViewModel.html#/s:20boss_workingfile_ios21ContractListViewModelC5InputV">– Input</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ContractRootModel.html">ContractRootModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/CustomId.html">CustomId</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/OtherBankCardVC.html">OtherBankCardVC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ShowCollectProtocolVC.html">ShowCollectProtocolVC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SignContractVC.html">SignContractVC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SignContractViewModel.html">SignContractViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SignContractViewModel.html#/s:20boss_workingfile_ios21SignContractViewModelC5InputV">– Input</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/StaffInfoModel.html">StaffInfoModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/WorkBankCardVC.html">WorkBankCardVC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/WorkFileConfig.html">WorkFileConfig</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/WorkFileListVC.html">WorkFileListVC</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/WorkIdCardVC.html">WorkIdCardVC</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/StaffSignForm.html">StaffSignForm</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/TaxAuthNewSource.html">TaxAuthNewSource</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/WorkFileApiMap.html">WorkFileApiMap</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/WorkFileRoute.html">WorkFileRoute</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>WorkFileListVC</h1>
+              <div class="declaration">
+                <div class="language">
+                  
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">WorkFileListVC</span> <span class="p">:</span> <span class="n">boss_common_ios</span><span class="o">.</span><span class="kt">BossViewController</span></code></pre>
+
+                </div>
+              </div>
+            <p>Undocumented</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)invitationId"></a>
+                    <a name="//apple_ref/swift/Property/invitationId" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)invitationId">invitationId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@objc</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">invitationId</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)accountMapId"></a>
+                    <a name="//apple_ref/swift/Property/accountMapId" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)accountMapId">accountMapId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@objc</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">accountMapId</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)teamId"></a>
+                    <a name="//apple_ref/swift/Property/teamId" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)teamId">teamId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@objc</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">teamId</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)staffId"></a>
+                    <a name="//apple_ref/swift/Property/staffId" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)staffId">staffId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@objc</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">staffId</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)biz_district_id"></a>
+                    <a name="//apple_ref/swift/Property/biz_district_id" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)biz_district_id">biz_district_id</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@objc</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">biz_district_id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)merchantName"></a>
+                    <a name="//apple_ref/swift/Property/merchantName" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)merchantName">merchantName</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@objc</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">merchantName</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)isCreatCollection"></a>
+                    <a name="//apple_ref/swift/Property/isCreatCollection" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)isCreatCollection">isCreatCollection</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@objc</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">isCreatCollection</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)isEnoughPermissions"></a>
+                    <a name="//apple_ref/swift/Property/isEnoughPermissions" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(py)isEnoughPermissions">isEnoughPermissions</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@objc</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">isEnoughPermissions</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(im)viewWillAppear:"></a>
+                    <a name="//apple_ref/swift/Method/viewWillAppear(_:)" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(im)viewWillAppear:">viewWillAppear(_:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">override</span> <span class="kd">func</span> <span class="nf">viewWillAppear</span><span class="p">(</span><span class="n">_</span> <span class="nv">animated</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(im)viewDidLoad"></a>
+                    <a name="//apple_ref/swift/Method/viewDidLoad()" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@boss_workingfile_ios@objc(cs)WorkFileListVC(im)viewDidLoad">viewDidLoad()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">override</span> <span class="kd">func</span> <span class="nf">viewDidLoad</span><span class="p">()</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2020 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2020-12-31)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.6</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>

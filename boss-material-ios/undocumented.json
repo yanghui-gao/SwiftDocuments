@@ -1,0 +1,523 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/API/MaterialApiMap.swift",
+      "line": 14,
+      "symbol": "materialApiMap",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/API/MaterialApiMap.swift",
+      "line": 19,
+      "symbol": "materialApiMap.cutPayListApi(teamId:staffId:curPage:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/API/MaterialApiMap.swift",
+      "line": 22,
+      "symbol": "materialApiMap.materialSureApi(teamId:recordId:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/API/MaterialApiMap.swift",
+      "line": 25,
+      "symbol": "materialApiMap",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/Model/MaterialListModel.swift",
+      "line": 9,
+      "symbol": "MaterialListModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ModuleConfig/MaterialModule.swift",
+      "line": 11,
+      "symbol": "MaterialModule",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ModuleConfig/MaterialModule.swift",
+      "line": 13,
+      "symbol": "MaterialModule.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ModuleConfig/MaterialModule.swift",
+      "line": 19,
+      "symbol": "MaterialModule.MaterialListStoryboard",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ModuleConfig/MaterialModule.swift",
+      "line": 36,
+      "symbol": "MaterialModule.materialContainVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ModuleConfig/MaterialModule.swift",
+      "line": 41,
+      "symbol": "MaterialModule.materialListVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ModuleConfig/MaterialModule.swift",
+      "line": 45,
+      "symbol": "MaterialModule.materialDetailVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ModuleConfig/MaterialModule.swift",
+      "line": 48,
+      "symbol": "MaterialModule.cutPayListVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/CutPayListVC.swift",
+      "line": 12,
+      "symbol": "CutPayListVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/CutPayListVC.swift",
+      "line": 16,
+      "symbol": "CutPayListVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/CutPayListVC.swift",
+      "line": 18,
+      "symbol": "CutPayListVC.staffId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/CutPayListVC.swift",
+      "line": 20,
+      "symbol": "CutPayListVC.merchantName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/CutPayListVC.swift",
+      "line": 31,
+      "symbol": "CutPayListVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/CutPayListVC.swift",
+      "line": 97,
+      "symbol": "CutPayListVC",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/CutPayListVC.swift",
+      "line": 99,
+      "symbol": "CutPayListVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/CutPayListVC.swift",
+      "line": 106,
+      "symbol": "CutPayListVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/CutPayListVC.swift",
+      "line": 110,
+      "symbol": "CutPayListVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialContainVC.swift",
+      "line": 13,
+      "symbol": "MaterialContainVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialContainVC.swift",
+      "line": 15,
+      "symbol": "MaterialContainVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialContainVC.swift",
+      "line": 17,
+      "symbol": "MaterialContainVC.staffId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialContainVC.swift",
+      "line": 19,
+      "symbol": "MaterialContainVC.merchantName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialContainVC.swift",
+      "line": 52,
+      "symbol": "MaterialContainVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialContainVC.swift",
+      "line": 77,
+      "symbol": "MaterialContainVC.viewControllers(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 13,
+      "symbol": "QuireType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 14,
+      "symbol": "QuireType.quireSelf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 15,
+      "symbol": "QuireType.quireOther",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 19,
+      "symbol": "PledgeType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 20,
+      "symbol": "PledgeType.pledgeDeduct",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 21,
+      "symbol": "PledgeType.pledgeNotDeduct",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 25,
+      "symbol": "DeductType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 26,
+      "symbol": "DeductType.deductOnce",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 27,
+      "symbol": "DeductType.deductMore",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 28,
+      "symbol": "DeductType.deductNO",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 29,
+      "symbol": "DeductType.deductAll",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 33,
+      "symbol": "UseType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 34,
+      "symbol": "UseType.useTypeInit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 35,
+      "symbol": "UseType.useTypeDone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 36,
+      "symbol": "UseType.useTypeBack",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 40,
+      "symbol": "MaterialDetailVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 44,
+      "symbol": "MaterialDetailVC.detailModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 48,
+      "symbol": "MaterialDetailVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 50,
+      "symbol": "MaterialDetailVC.merchantName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 53,
+      "symbol": "MaterialDetailVC.isCutPay",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 61,
+      "symbol": "MaterialDetailVC.dataSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 63,
+      "symbol": "MaterialDetailVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 188,
+      "symbol": "changeMoneyType(originNum:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 193,
+      "symbol": "MaterialDetailVC",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 195,
+      "symbol": "MaterialDetailVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialDetailVC.swift",
+      "line": 209,
+      "symbol": "MaterialDetailVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 13,
+      "symbol": "materialState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 14,
+      "symbol": "materialState.waitDo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 15,
+      "symbol": "materialState.done",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 18,
+      "symbol": "MaterialListVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 20,
+      "symbol": "MaterialListVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 22,
+      "symbol": "MaterialListVC.staffId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 24,
+      "symbol": "MaterialListVC.merchantName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 26,
+      "symbol": "MaterialListVC.itemInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 40,
+      "symbol": "MaterialListVC.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 44,
+      "symbol": "MaterialListVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 103,
+      "symbol": "MaterialListVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 117,
+      "symbol": "MaterialListVC.indicatorInfo(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 122,
+      "symbol": "MaterialListVC",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 125,
+      "symbol": "MaterialListVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 138,
+      "symbol": "MaterialListVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/VC/MaterialListVC.swift",
+      "line": 142,
+      "symbol": "MaterialListVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ViewModel/CutpayViewModel.swift",
+      "line": 15,
+      "symbol": "CutpayViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ViewModel/MaterialDetailViewModel.swift",
+      "line": 15,
+      "symbol": "MaterialDetailViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/ViewModel/MaterialViewModel.swift",
+      "line": 15,
+      "symbol": "MaterialViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/router/MaterialRouter.swift",
+      "line": 13,
+      "symbol": "MaterialRouter",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-material-ios/boss-material-ios/Classes/router/MaterialRouter.swift",
+      "line": 15,
+      "symbol": "MaterialRouter.initialize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

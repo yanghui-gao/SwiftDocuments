@@ -1,0 +1,348 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/API/TaxAuthenticationApi.swift",
+      "line": 13,
+      "symbol": "TaxAuthenticationApi",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/API/TaxAuthenticationApi.swift",
+      "line": 16,
+      "symbol": "TaxAuthenticationApi.taxOrderUploadApi(asset_key:source:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/API/TaxAuthenticationApi.swift",
+      "line": 19,
+      "symbol": "TaxAuthenticationApi.taxOrderFindOneApi(account_id:source:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/API/TaxAuthenticationApi.swift",
+      "line": 23,
+      "symbol": "TaxAuthenticationApi",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthEnum.swift",
+      "line": 11,
+      "symbol": "TaxAuthNewSource",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthEnum.swift",
+      "line": 12,
+      "symbol": "TaxAuthNewSource.taxAuthBoDu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthEnum.swift",
+      "line": 13,
+      "symbol": "TaxAuthNewSource.taxAuthZhongJian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthEnum.swift",
+      "line": 14,
+      "symbol": "TaxAuthNewSource.taxAuthUnknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthenticationConfig.swift",
+      "line": 13,
+      "symbol": "TaxAuthenticationConfig",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthenticationConfig.swift",
+      "line": 15,
+      "symbol": "TaxAuthenticationConfig.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthenticationConfig.swift",
+      "line": 21,
+      "symbol": "TaxAuthenticationConfig.taxAuthStoryboard",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthenticationConfig.swift",
+      "line": 38,
+      "symbol": "TaxAuthenticationConfig.taxListVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthenticationConfig.swift",
+      "line": 43,
+      "symbol": "TaxAuthenticationConfig.taxTipVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthenticationConfig.swift",
+      "line": 47,
+      "symbol": "TaxAuthenticationConfig.taxUploadVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ModuleConfig/TaxAuthenticationConfig.swift",
+      "line": 52,
+      "symbol": "TaxAuthenticationConfig.taxDetailVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxDetailVC.swift",
+      "line": 13,
+      "symbol": "TaxDetailVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxDetailVC.swift",
+      "line": 15,
+      "symbol": "TaxDetailVC.idCardId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxDetailVC.swift",
+      "line": 17,
+      "symbol": "TaxDetailVC.userName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxDetailVC.swift",
+      "line": 19,
+      "symbol": "TaxDetailVC.taxIsAble",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxDetailVC.swift",
+      "line": 21,
+      "symbol": "TaxDetailVC.accountId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxDetailVC.swift",
+      "line": 23,
+      "symbol": "TaxDetailVC.taxAuthSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxDetailVC.swift",
+      "line": 36,
+      "symbol": "TaxDetailVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 12,
+      "symbol": "TaxListVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 14,
+      "symbol": "TaxListVC.idCardId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 15,
+      "symbol": "TaxListVC.userName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 17,
+      "symbol": "TaxListVC.taxIsAble",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 19,
+      "symbol": "TaxListVC.taxAuthSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 23,
+      "symbol": "TaxListVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 29,
+      "symbol": "TaxListVC",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 31,
+      "symbol": "TaxListVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 38,
+      "symbol": "TaxListVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxListVC.swift",
+      "line": 42,
+      "symbol": "TaxListVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxTipVC.swift",
+      "line": 12,
+      "symbol": "TaxTipVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxTipVC.swift",
+      "line": 14,
+      "symbol": "TaxTipVC.idCardId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxTipVC.swift",
+      "line": 15,
+      "symbol": "TaxTipVC.userName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxTipVC.swift",
+      "line": 17,
+      "symbol": "TaxTipVC.taxSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxTipVC.swift",
+      "line": 33,
+      "symbol": "TaxTipVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxUploadVC.swift",
+      "line": 12,
+      "symbol": "TaxUploadVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxUploadVC.swift",
+      "line": 14,
+      "symbol": "TaxUploadVC.idCardId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxUploadVC.swift",
+      "line": 15,
+      "symbol": "TaxUploadVC.userName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxUploadVC.swift",
+      "line": 16,
+      "symbol": "TaxUploadVC.taxSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/VC/TaxUploadVC.swift",
+      "line": 37,
+      "symbol": "TaxUploadVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/View/TaxListCell.swift",
+      "line": 10,
+      "symbol": "TaxListCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/View/TaxListCell.swift",
+      "line": 15,
+      "symbol": "TaxListCell.source",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/View/TaxListCell.swift",
+      "line": 37,
+      "symbol": "TaxListCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ViewModel/TaxAuthViewModel.swift",
+      "line": 16,
+      "symbol": "TaxAuthViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/ViewModel/TaxDetailViewModel.swift",
+      "line": 15,
+      "symbol": "TaxDetailViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/router/TaxAuthenticationRouter.swift",
+      "line": 13,
+      "symbol": "TaxAuthenticationRouter",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-tax-authentication-ios/boss-tax-authentication-ios/Classes/router/TaxAuthenticationRouter.swift",
+      "line": 15,
+      "symbol": "TaxAuthenticationRouter.initialize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

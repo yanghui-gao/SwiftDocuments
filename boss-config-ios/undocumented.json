@@ -1,0 +1,33 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-config-ios/boss-config-ios/Classes/APPSTOREID.swift",
+      "line": 19,
+      "symbol": "APPSTOREID",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-config-ios/boss-config-ios/Classes/APPSTOREID.swift",
+      "line": 20,
+      "symbol": "APPCODE",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-config-ios/boss-config-ios/Classes/QHConfig/QHKEY.swift",
+      "line": 13,
+      "symbol": "ACCESS_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-config-ios/boss-config-ios/Classes/QHConfig/QHKEY.swift",
+      "line": 16,
+      "symbol": "SECRET_KEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

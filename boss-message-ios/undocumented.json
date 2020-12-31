@@ -1,0 +1,390 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Model/ControlInfoModel.swift",
+      "line": 9,
+      "symbol": "MonitType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Model/ControlInfoModel.swift",
+      "line": 10,
+      "symbol": "MonitType.identityError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Model/ControlInfoModel.swift",
+      "line": 11,
+      "symbol": "MonitType.threeIdError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Model/ControlInfoModel.swift",
+      "line": 12,
+      "symbol": "MonitType.nameError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Model/ControlInfoModel.swift",
+      "line": 13,
+      "symbol": "MonitType.signError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/AnncounceMent/AnnouncementViewController.swift",
+      "line": 242,
+      "symbol": "AnnouncementViewController.image(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/AnncounceMent/AnnouncementViewController.swift",
+      "line": 245,
+      "symbol": "AnnouncementViewController.title(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/AnncounceMent/AnnouncementViewController.swift",
+      "line": 252,
+      "symbol": "AnnouncementViewController.emptyDataSetShouldAllowScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/AnncounceMent/SelectContactsViewController.swift",
+      "line": 140,
+      "symbol": "SelectContactsViewController.image(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/AnncounceMent/SelectContactsViewController.swift",
+      "line": 143,
+      "symbol": "SelectContactsViewController.title(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/AnncounceMent/SelectContactsViewController.swift",
+      "line": 150,
+      "symbol": "SelectContactsViewController.emptyDataSetShouldAllowScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/InformationNotice/InformationNoticeListVC.swift",
+      "line": 151,
+      "symbol": "InformationNoticeListVC.image(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/InformationNotice/InformationNoticeListVC.swift",
+      "line": 154,
+      "symbol": "InformationNoticeListVC.title(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/InformationNotice/InformationNoticeListVC.swift",
+      "line": 161,
+      "symbol": "InformationNoticeListVC.emptyDataSetShouldAllowScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 16,
+      "symbol": "BaseJsBridgeViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 19,
+      "symbol": "BaseJsBridgeViewController.bridge",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 21,
+      "symbol": "BaseJsBridgeViewController.myWkWebView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 23,
+      "symbol": "BaseJsBridgeViewController.configuration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 25,
+      "symbol": "BaseJsBridgeViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 31,
+      "symbol": "BaseJsBridgeViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 35,
+      "symbol": "BaseJsBridgeViewController.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 88,
+      "symbol": "BaseJsBridgeViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 89,
+      "symbol": "BaseJsBridgeViewController.webView(_:didStartProvisionalNavigation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 93,
+      "symbol": "BaseJsBridgeViewController.webView(_:didFinish:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/BaseJsBridgeViewController.swift",
+      "line": 96,
+      "symbol": "BaseJsBridgeViewController.webView(_:didFail:withError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/MeetingListViewController.swift",
+      "line": 213,
+      "symbol": "MeetingListViewController.image(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/MeetingListViewController.swift",
+      "line": 216,
+      "symbol": "MeetingListViewController.title(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MeetingModule/MeetingListViewController.swift",
+      "line": 223,
+      "symbol": "MeetingListViewController.emptyDataSetShouldAllowScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 25,
+      "symbol": "MessageVc",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 76,
+      "symbol": "MessageVc.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 102,
+      "symbol": "MessageVc.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 106,
+      "symbol": "MessageVc.traitCollectionDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 268,
+      "symbol": "MessageVc",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 269,
+      "symbol": "MessageVc.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 272,
+      "symbol": "MessageVc.tableView(_:viewForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 289,
+      "symbol": "MessageVc.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 304,
+      "symbol": "MessageVc.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 307,
+      "symbol": "MessageVc.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 349,
+      "symbol": "MessageVc",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 350,
+      "symbol": "MessageVc.image(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 353,
+      "symbol": "MessageVc.title(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/MessageVc.swift",
+      "line": 360,
+      "symbol": "MessageVc.emptyDataSetShouldAllowScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/OfficialList/OfficialListViewController.swift",
+      "line": 177,
+      "symbol": "OfficialListViewController.image(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/OfficialList/OfficialListViewController.swift",
+      "line": 180,
+      "symbol": "OfficialListViewController.title(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/OfficialList/OfficialListViewController.swift",
+      "line": 187,
+      "symbol": "OfficialListViewController.emptyDataSetShouldAllowScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/QuestionnairModule/QuestionnaireListVC.swift",
+      "line": 98,
+      "symbol": "QuestionnaireListVC.image(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/QuestionnairModule/QuestionnaireListVC.swift",
+      "line": 101,
+      "symbol": "QuestionnaireListVC.title(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/QuestionnairModule/QuestionnaireListVC.swift",
+      "line": 108,
+      "symbol": "QuestionnaireListVC.emptyDataSetShouldAllowScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/TeamAssistant/TeamAssistantVC.swift",
+      "line": 171,
+      "symbol": "TeamAssistantVC.image(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/TeamAssistant/TeamAssistantVC.swift",
+      "line": 174,
+      "symbol": "TeamAssistantVC.title(forEmptyDataSet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/MessageListModule/Vc/TeamAssistant/TeamAssistantVC.swift",
+      "line": 181,
+      "symbol": "TeamAssistantVC.emptyDataSetShouldAllowScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/ModuleCommon/MessageModuleCommon.swift",
+      "line": 8,
+      "symbol": "MessageModuleCommon",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/ModuleCommon/MessageModuleCommon.swift",
+      "line": 10,
+      "symbol": "MessageModuleCommon.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/Router/MessageRouter.swift",
+      "line": 13,
+      "symbol": "MessageRouter",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-message-ios/boss-message-ios/Classes/Router/MessageRouter.swift",
+      "line": 15,
+      "symbol": "MessageRouter.initialize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

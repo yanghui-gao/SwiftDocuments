@@ -1,0 +1,663 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/API/BusinessRegistrateApiMap.swift",
+      "line": 14,
+      "symbol": "BusinessRegistrateApiMap",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/API/BusinessRegistrateApiMap.swift",
+      "line": 17,
+      "symbol": "BusinessRegistrateApiMap.getIndividualRegisterStateApi(teamId:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/API/BusinessRegistrateApiMap.swift",
+      "line": 20,
+      "symbol": "BusinessRegistrateApiMap.registerIndividual(teamId:source:isDarkMode:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/API/BusinessRegistrateApiMap.swift",
+      "line": 23,
+      "symbol": "BusinessRegistrateApiMap.taxRegister(teamId:source:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/API/BusinessRegistrateApiMap.swift",
+      "line": 26,
+      "symbol": "BusinessRegistrateApiMap.taxRegisterGetSignParams",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/API/BusinessRegistrateApiMap.swift",
+      "line": 30,
+      "symbol": "BusinessRegistrateApiMap",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/Model/RegistrateLoadModel.swift",
+      "line": 10,
+      "symbol": "RegistrateLoadModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 11,
+      "symbol": "BussinessRegistrateConfig",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 13,
+      "symbol": "BussinessRegistrateConfig.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 19,
+      "symbol": "BussinessRegistrateConfig.businessRegistrationStoryBoard",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 38,
+      "symbol": "BussinessRegistrateConfig.registrateJumpVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 43,
+      "symbol": "BussinessRegistrateConfig.registrateTipVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 48,
+      "symbol": "BussinessRegistrateConfig.registrateFlowPathVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 53,
+      "symbol": "BussinessRegistrateConfig.registrateFailVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 58,
+      "symbol": "BussinessRegistrateConfig.registrateDetailVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 64,
+      "symbol": "BussinessRegistrateConfig.registrateLoadVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ModuleConfig/BussinessRegistrateConfig.swift",
+      "line": 69,
+      "symbol": "BussinessRegistrateConfig.preImgViewVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 11,
+      "symbol": "RegistrationNewState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 12,
+      "symbol": "RegistrationNewState.Registration_IMP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 13,
+      "symbol": "RegistrationNewState.Registration_UNSURE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 14,
+      "symbol": "RegistrationNewState.Registration_PRO",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 15,
+      "symbol": "RegistrationNewState.Registration_PER",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 16,
+      "symbol": "RegistrationNewState.Registration_FAI",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 17,
+      "symbol": "RegistrationNewState.Registration_SUS",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 21,
+      "symbol": "EntrustRegistrationNewSource",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 22,
+      "symbol": "EntrustRegistrationNewSource.boDu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 23,
+      "symbol": "EntrustRegistrationNewSource.mengDa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 24,
+      "symbol": "EntrustRegistrationNewSource.zhongJian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 28,
+      "symbol": "LoadStep",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 29,
+      "symbol": "LoadStep.loadStepAuth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 30,
+      "symbol": "LoadStep.loadStepSync",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 34,
+      "symbol": "LoadState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 35,
+      "symbol": "LoadState.loadStateLoading",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 36,
+      "symbol": "LoadState.loadStateSuccess",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/RegistrateEnum.swift",
+      "line": 37,
+      "symbol": "LoadState.loadStateFail",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/Router/BussinessRegistrateRoute.swift",
+      "line": 14,
+      "symbol": "BussinessRegistrateRoute",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/Router/BussinessRegistrateRoute.swift",
+      "line": 16,
+      "symbol": "BussinessRegistrateRoute.initialize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/PreImgViewVC.swift",
+      "line": 13,
+      "symbol": "PreImgViewVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/PreImgViewVC.swift",
+      "line": 15,
+      "symbol": "PreImgViewVC.urlStr",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/PreImgViewVC.swift",
+      "line": 19,
+      "symbol": "PreImgViewVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 12,
+      "symbol": "RegistrateDetailVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 16,
+      "symbol": "RegistrateDetailVC.creditCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 18,
+      "symbol": "RegistrateDetailVC.source",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 20,
+      "symbol": "RegistrateDetailVC.registerImageUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 22,
+      "symbol": "RegistrateDetailVC.curUserName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 26,
+      "symbol": "RegistrateDetailVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 85,
+      "symbol": "RegistrateDetailVC",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 88,
+      "symbol": "RegistrateDetailVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 92,
+      "symbol": "RegistrateDetailVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateDetailVC.swift",
+      "line": 105,
+      "symbol": "RegistrateDetailVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFailVC.swift",
+      "line": 12,
+      "symbol": "RegistrateFailVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFailVC.swift",
+      "line": 15,
+      "symbol": "RegistrateFailVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFailVC.swift",
+      "line": 16,
+      "symbol": "RegistrateFailVC.reason",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFailVC.swift",
+      "line": 17,
+      "symbol": "RegistrateFailVC.source",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFailVC.swift",
+      "line": 21,
+      "symbol": "RegistrateFailVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFlowPathVC.swift",
+      "line": 12,
+      "symbol": "RegistrateFlowPathVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFlowPathVC.swift",
+      "line": 14,
+      "symbol": "RegistrateFlowPathVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFlowPathVC.swift",
+      "line": 16,
+      "symbol": "RegistrateFlowPathVC.source",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFlowPathVC.swift",
+      "line": 32,
+      "symbol": "RegistrateFlowPathVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFlowPathVC.swift",
+      "line": 109,
+      "symbol": "RegistrateFlowPathVC",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFlowPathVC.swift",
+      "line": 111,
+      "symbol": "RegistrateFlowPathVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateFlowPathVC.swift",
+      "line": 115,
+      "symbol": "RegistrateFlowPathVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateJumpVC.swift",
+      "line": 14,
+      "symbol": "RegistrateJumpVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateJumpVC.swift",
+      "line": 16,
+      "symbol": "RegistrateJumpVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateJumpVC.swift",
+      "line": 17,
+      "symbol": "RegistrateJumpVC.curUserName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateJumpVC.swift",
+      "line": 23,
+      "symbol": "RegistrateJumpVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateLoadVC.swift",
+      "line": 15,
+      "symbol": "RegistrateLoadVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateLoadVC.swift",
+      "line": 17,
+      "symbol": "RegistrateLoadVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateLoadVC.swift",
+      "line": 19,
+      "symbol": "RegistrateLoadVC.source",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateLoadVC.swift",
+      "line": 51,
+      "symbol": "RegistrateLoadVC.popToBeforeViewController()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateLoadVC.swift",
+      "line": 61,
+      "symbol": "RegistrateLoadVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateLoadVC.swift",
+      "line": 165,
+      "symbol": "RegistrateLoadVC",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateLoadVC.swift",
+      "line": 167,
+      "symbol": "RegistrateLoadVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateLoadVC.swift",
+      "line": 171,
+      "symbol": "RegistrateLoadVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateTipVC.swift",
+      "line": 16,
+      "symbol": "RegistrateTipVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateTipVC.swift",
+      "line": 18,
+      "symbol": "RegistrateTipVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateTipVC.swift",
+      "line": 20,
+      "symbol": "RegistrateTipVC.source",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateTipVC.swift",
+      "line": 26,
+      "symbol": "RegistrateTipVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 9,
+      "symbol": "RegistrateWebVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 11,
+      "symbol": "RegistrateWebVC.teamId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 13,
+      "symbol": "RegistrateWebVC.authority",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 15,
+      "symbol": "RegistrateWebVC.faceIdentity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 17,
+      "symbol": "RegistrateWebVC.source",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 36,
+      "symbol": "RegistrateWebVC.loadWebVCBlock",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 50,
+      "symbol": "RegistrateWebVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 60,
+      "symbol": "RegistrateWebVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 96,
+      "symbol": "RegistrateWebVC.traitCollectionDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 112,
+      "symbol": "RegistrateWebVC.popToBeforeViewController()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 126,
+      "symbol": "RegistrateWebVC.observeValue(forKeyPath:of:change:context:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 155,
+      "symbol": "RegistrateWebVC.webView(_:decidePolicyFor:decisionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/VC/RegistrateWebVC.swift",
+      "line": 193,
+      "symbol": "RegistrateWebVC.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ViewModel/RegistrateFlowPathViewModel.swift",
+      "line": 15,
+      "symbol": "RegistrateFlowPathViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ViewModel/RegistrateJumpViewModel.swift",
+      "line": 15,
+      "symbol": "RegistrateJumpViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-business-registration-ios/boss-business-registration-ios/Classes/ViewModel/RegistrateTipViewModel.swift",
+      "line": 15,
+      "symbol": "RegistrateTipViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

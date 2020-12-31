@@ -1,0 +1,327 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/BaiduOcrCamera.swift",
+      "line": 17,
+      "symbol": "BaiDuOCRTypes",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/BaiduOcrCamera.swift",
+      "line": 28,
+      "symbol": "BaiduOcrCamera",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/BaiduOcrCamera.swift",
+      "line": 37,
+      "symbol": "BaiduOcrCamera.resultSuccess",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/BaiduOcrCamera.swift",
+      "line": 39,
+      "symbol": "BaiduOcrCamera.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/BaiduOcrCamera.swift",
+      "line": 42,
+      "symbol": "BaiduOcrCamera.autoRegist()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/BaiduOcrCamera.swift",
+      "line": 101,
+      "symbol": "BaiduOcrCamera.detectBankCard()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/DetectIdCardBackModel.swift",
+      "line": 11,
+      "symbol": "DetectIdCardBackModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/DetectIdCardBackModel.swift",
+      "line": 21,
+      "symbol": "DetectIdCardBackModel.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/DetectIdCardBackModel.swift",
+      "line": 24,
+      "symbol": "DetectIdCardBackModel.init(result:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/DetectIdCardBackModel.swift",
+      "line": 35,
+      "symbol": "DetectIdCardBackModel.toDictionary()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/IDCardFrontModel.swift",
+      "line": 11,
+      "symbol": "IDCardFrontModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/IDCardFrontModel.swift",
+      "line": 31,
+      "symbol": "IDCardFrontModel.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/IDCardFrontModel.swift",
+      "line": 34,
+      "symbol": "IDCardFrontModel.init(result:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/IDCardFrontModel.swift",
+      "line": 51,
+      "symbol": "IDCardFrontModel.toDictionary()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrBankInfoModel.swift",
+      "line": 10,
+      "symbol": "baiduOcrBankInfoModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrBankInfoModel.swift",
+      "line": 11,
+      "symbol": "baiduOcrBankInfoModel.bankName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrBankInfoModel.swift",
+      "line": 12,
+      "symbol": "baiduOcrBankInfoModel.bankNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrBankInfoModel.swift",
+      "line": 13,
+      "symbol": "baiduOcrBankInfoModel.bankImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrBankInfoModel.swift",
+      "line": 15,
+      "symbol": "baiduOcrBankInfoModel.init(bankName:bankNumber:bankImage:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrBankInfoModel.swift",
+      "line": 20,
+      "symbol": "baiduOcrBankInfoModel.init(result:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrBankInfoModel.swift",
+      "line": 25,
+      "symbol": "baiduOcrBankInfoModel.toDictionary()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrUserModel.swift",
+      "line": 11,
+      "symbol": "baiduOcrUserModel",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrUserModel.swift",
+      "line": 12,
+      "symbol": "baiduOcrUserModel.ocrType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrUserModel.swift",
+      "line": 40,
+      "symbol": "baiduOcrUserModel.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrUserModel.swift",
+      "line": 43,
+      "symbol": "baiduOcrUserModel.init(result:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/baiduOcrModule/Model/baiduOcrUserModel.swift",
+      "line": 68,
+      "symbol": "baiduOcrUserModel.toDictionary()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/basicCameraModule/cameraManage.swift",
+      "line": 11,
+      "symbol": "cameraManage.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/basicCameraModule/cameraManage.swift",
+      "line": 13,
+      "symbol": "cameraManage.cameraPermissionsObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/basicCameraModule/cameraManage.swift",
+      "line": 54,
+      "symbol": "cameraManage.photoLibraryPermissionsObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/basicCameraModule/cameraManage.swift",
+      "line": 94,
+      "symbol": "cameraManage.camerastatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 10,
+      "symbol": "meidaType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 11,
+      "symbol": "meidaType.custom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 12,
+      "symbol": "meidaType.MovieAndImage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 13,
+      "symbol": "meidaType.Movie",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 15,
+      "symbol": "meidaType.meidaTypes()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 27,
+      "symbol": "normalCameraModule",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 29,
+      "symbol": "normalCameraModule.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 31,
+      "symbol": "normalCameraModule.imageObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 33,
+      "symbol": "normalCameraModule.fileDataObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 41,
+      "symbol": "normalCameraModule.openCamera(meidaType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 56,
+      "symbol": "normalCameraModule.openPhotoLibrary(meidaType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 72,
+      "symbol": "normalCameraModule",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 73,
+      "symbol": "normalCameraModule.imagePickerController(_:didFinishPickingMediaWithInfo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 111,
+      "symbol": "normalCameraModule.imagePickerControllerDidCancel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 134,
+      "symbol": "normalCameraModule",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-camera-ios/boss-camera-ios/Classes/normalCameraModule/normalCameraModule.swift",
+      "line": 136,
+      "symbol": "normalCameraModule.openCameraFromAlert()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

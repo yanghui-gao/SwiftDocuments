@@ -1,0 +1,26 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-net-ios/boss-net-ios/Classes/QHRequest.swift",
+      "line": 17,
+      "symbol": "pluginTypeList",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-net-ios/boss-net-ios/Classes/QHRequest.swift",
+      "line": 22,
+      "symbol": "QHAPIProvider",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-net-ios/boss-net-ios/Classes/QHRequest.swift",
+      "line": 27,
+      "symbol": "X_MSG_ID",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}

@@ -1,0 +1,2105 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/BossNetworkConfig/BossRequestHeaderParameter.swift",
+      "line": 44,
+      "symbol": "UMSAPPKEY",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/BossNetworkConfig/BossRequestUrl.swift",
+      "line": 12,
+      "symbol": "BossBasicURL",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/BossNetworkConfig/BossRequestUrl.swift",
+      "line": 13,
+      "symbol": "MeetingBasicURL",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/BossNetworkConfig/BossRequestUrl.swift",
+      "line": 14,
+      "symbol": "UMSBasicURL",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/BossNetworkConfig/BossRequestUrl.swift",
+      "line": 15,
+      "symbol": "salaryLoanBasicURL",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/BossNetworkConfig/BossRequestUrl.swift",
+      "line": 17,
+      "symbol": "DebugConfig",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/BossNetworkConfig/BossRequestUrl.swift",
+      "line": 18,
+      "symbol": "DebugConfig.setConfig()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/BossNetworkConfig/QHRequestManager.swift",
+      "line": 11,
+      "symbol": "QHRequestManager",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CacheCommon/CacheManager-Extension.swift",
+      "line": 15,
+      "symbol": "CacheManager.accessToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 11,
+      "symbol": "H5UrlType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 12,
+      "symbol": "H5UrlType.agreement",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 13,
+      "symbol": "H5UrlType.privacy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 16,
+      "symbol": "SavePhotoType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 17,
+      "symbol": "SavePhotoType.SavePhotoTypeQiNiu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 18,
+      "symbol": "SavePhotoType.SavePhotoTypeLocal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 19,
+      "symbol": "SavePhotoType.SavePhotoTypeS3",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 22,
+      "symbol": "IdentityType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 23,
+      "symbol": "IdentityType.IdentityTypeNormal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 24,
+      "symbol": "IdentityType.IdentityTypeTemp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 31,
+      "symbol": "DomainType.message",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 32,
+      "symbol": "DomainType.profile",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 33,
+      "symbol": "DomainType.notice",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 38,
+      "symbol": "PushBankCardControllerType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 39,
+      "symbol": "PushBankCardControllerType.regist",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 40,
+      "symbol": "PushBankCardControllerType.change",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 41,
+      "symbol": "PushBankCardControllerType.fix",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 42,
+      "symbol": "PushBankCardControllerType.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 46,
+      "symbol": "procuratorOrderType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 47,
+      "symbol": "procuratorOrderType.edit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 48,
+      "symbol": "procuratorOrderType.agree",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 49,
+      "symbol": "procuratorOrderType.audit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 50,
+      "symbol": "procuratorOrderType.withdraw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 51,
+      "symbol": "procuratorOrderType.disagree",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonEnum.swift",
+      "line": 52,
+      "symbol": "procuratorOrderType.overdue",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonMoudle.swift",
+      "line": 12,
+      "symbol": "BossCommonMoudle",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonMoudle.swift",
+      "line": 14,
+      "symbol": "BossCommonMoudle.share",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonMoudle.swift",
+      "line": 16,
+      "symbol": "BossCommonMoudle.bundle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonMoudle.swift",
+      "line": 28,
+      "symbol": "BossCommonMoudle.areaPickerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonMoudle.swift",
+      "line": 34,
+      "symbol": "BossCommonMoudle.customAlertView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonMoudle.swift",
+      "line": 46,
+      "symbol": "BossCommonMoudle.DrawPathView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/BossCommonMoudle.swift",
+      "line": 52,
+      "symbol": "BossCommonMoudle.textViewAlertView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/NSObject+Extension.swift",
+      "line": 11,
+      "symbol": "NSObject.theClassName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/String+Extension.swift",
+      "line": 91,
+      "symbol": "String.findFirstLetterFromString()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/UIImage+Extension.swift",
+      "line": 62,
+      "symbol": "UIApplication.statusBarUIView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/UITabbar+Extension.swift",
+      "line": 12,
+      "symbol": "UITabBar.showBadge(onItemIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/UITabbar+Extension.swift",
+      "line": 33,
+      "symbol": "UITabBar.hideBadge(onItemIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/CommonClass/Const/UITabbar+Extension.swift",
+      "line": 40,
+      "symbol": "UITabBar.removeBadge(onItemIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 13,
+      "symbol": "RefreshStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 15,
+      "symbol": "RefreshStatus.beingHeaderRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 17,
+      "symbol": "RefreshStatus.endHeaderRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 19,
+      "symbol": "RefreshStatus.endFooterRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 22,
+      "symbol": "RefreshStatus.footerStatus(isHidden:isNoMoreData:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 24,
+      "symbol": "RefreshProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 26,
+      "symbol": "RefreshProtocol.refreshStatusManage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 29,
+      "symbol": "RefreshProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 30,
+      "symbol": "RefreshProtocol.header",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RefreshCommon/RefreshProtocol.swift",
+      "line": 31,
+      "symbol": "RefreshProtocol.footer",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RouterCommon/BasicNavigationMap.swift",
+      "line": 12,
+      "symbol": "BasicNavigationMap",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RouterCommon/BasicNavigationMap.swift",
+      "line": 14,
+      "symbol": "BasicNavigationMap.initialize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RouterCommon/Router+String.swift",
+      "line": 23,
+      "symbol": "String.present()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RouterCommon/Router+String.swift",
+      "line": 27,
+      "symbol": "String.present(para:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RouterCommon/Router+String.swift",
+      "line": 31,
+      "symbol": "String.present(context:wrap:from:animated:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RouterCommon/RouterManage.swift",
+      "line": 20,
+      "symbol": "ROUTERPREFIX",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RouterCommon/SimpleWebViewController.swift",
+      "line": 11,
+      "symbol": "SimpleWebViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RouterCommon/SimpleWebViewController.swift",
+      "line": 13,
+      "symbol": "SimpleWebViewController.url",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/RouterCommon/SimpleWebViewController.swift",
+      "line": 15,
+      "symbol": "SimpleWebViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/AreaPickerView.swift",
+      "line": 12,
+      "symbol": "AreaPickerView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/AreaPickerView.swift",
+      "line": 16,
+      "symbol": "AreaPickerView.AreaMaskView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/AreaPickerView.swift",
+      "line": 22,
+      "symbol": "AreaPickerView.areaObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/AreaPickerView.swift",
+      "line": 26,
+      "symbol": "AreaPickerView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/AreaPickerView.swift",
+      "line": 32,
+      "symbol": "AreaPickerView.areaPickerDidUpdate(sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/AreaPickerView.swift",
+      "line": 36,
+      "symbol": "AreaPickerView.show()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/AreaPickerView.swift",
+      "line": 49,
+      "symbol": "AreaPickerView.dissMiss()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/AreaPickerView.swift",
+      "line": 61,
+      "symbol": "AreaPickerView.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 13,
+      "symbol": "LixAreaPickerDelegate.areaPickerDidUpdate(sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 16,
+      "symbol": "LixAreaPickerView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 30,
+      "symbol": "LixAreaPickerView.LixAreaPickerType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 31,
+      "symbol": "LixAreaPickerView.LixAreaPickerType.Province",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 32,
+      "symbol": "LixAreaPickerView.LixAreaPickerType.City",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 33,
+      "symbol": "LixAreaPickerView.LixAreaPickerType.District",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 36,
+      "symbol": "LixAreaPickerView.pickerType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 45,
+      "symbol": "LixAreaPickerView.pickerDelegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 46,
+      "symbol": "LixAreaPickerView.province",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 56,
+      "symbol": "LixAreaPickerView.city",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 67,
+      "symbol": "LixAreaPickerView.district",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 103,
+      "symbol": "LixAreaPickerView.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 111,
+      "symbol": "LixAreaPickerView.dataSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 119,
+      "symbol": "LixAreaPickerView.didMoveToWindow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 129,
+      "symbol": "LixAreaPickerView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 135,
+      "symbol": "LixAreaPickerView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 147,
+      "symbol": "LixAreaPickerView.numberOfComponentsInPickerView(pickerView:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 157,
+      "symbol": "LixAreaPickerView.numberOfComponents(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 160,
+      "symbol": "LixAreaPickerView.pickerView(_:numberOfRowsInComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 174,
+      "symbol": "LixAreaPickerView.pickerView(_:titleForRow:forComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 193,
+      "symbol": "LixAreaPickerView.pickerView(_:didSelectRow:inComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/AreaPickerView/LixAreaPickerView.swift",
+      "line": 237,
+      "symbol": "LixAreaPickerView.selectRow(_:inComponent:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 13,
+      "symbol": "datePickerType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 14,
+      "symbol": "datePickerType.year",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 15,
+      "symbol": "datePickerType.month",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 16,
+      "symbol": "datePickerType.day",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 19,
+      "symbol": "DatePickerView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 36,
+      "symbol": "DatePickerView.pickerType",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 38,
+      "symbol": "DatePickerView.start_start_date",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 40,
+      "symbol": "DatePickerView.start_end_date",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 42,
+      "symbol": "DatePickerView.end_start_date",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 44,
+      "symbol": "DatePickerView.end_end_date",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 72,
+      "symbol": "DatePickerView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 99,
+      "symbol": "DatePickerView.show(confirmHandle:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 356,
+      "symbol": "DatePickerView.numberOfComponents(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 359,
+      "symbol": "DatePickerView.pickerView(_:numberOfRowsInComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 371,
+      "symbol": "DatePickerView.pickerView(_:titleForRow:forComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/DatePickerView/DatePickerView.swift",
+      "line": 383,
+      "symbol": "DatePickerView.pickerView(_:didSelectRow:inComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/MaskView.swift",
+      "line": 10,
+      "symbol": "MaskView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/MaskView.swift",
+      "line": 12,
+      "symbol": "MaskView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/DrawPathView.swift",
+      "line": 11,
+      "symbol": "DrawPathView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/DrawPathView.swift",
+      "line": 15,
+      "symbol": "DrawPathView.tipLabelText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/DrawPathView.swift",
+      "line": 21,
+      "symbol": "DrawPathView.confirmclosure",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/DrawPathView.swift",
+      "line": 24,
+      "symbol": "DrawPathView.cancleclosure",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/DrawPathView.swift",
+      "line": 32,
+      "symbol": "DrawPathView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/DrawPathView.swift",
+      "line": 73,
+      "symbol": "DrawPathView.show()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/DrawPathView.swift",
+      "line": 76,
+      "symbol": "DrawPathView.remove()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/DrawPathView.swift",
+      "line": 79,
+      "symbol": "DrawPathView.getSignature()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/pathView.swift",
+      "line": 10,
+      "symbol": "pathView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/pathView.swift",
+      "line": 14,
+      "symbol": "pathView.allPaths",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/pathView.swift",
+      "line": 22,
+      "symbol": "pathView.LineDrawingBlock",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/pathView.swift",
+      "line": 24,
+      "symbol": "pathView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/pathView.swift",
+      "line": 41,
+      "symbol": "pathView.draw(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/SingleView/pathView.swift",
+      "line": 50,
+      "symbol": "pathView.clean()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/TextViewAlertView.swift",
+      "line": 13,
+      "symbol": "TextViewAlertView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/TextViewAlertView.swift",
+      "line": 25,
+      "symbol": "TextViewAlertView.confirmObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/TextViewAlertView.swift",
+      "line": 27,
+      "symbol": "TextViewAlertView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/TextViewAlertView.swift",
+      "line": 57,
+      "symbol": "TextViewAlertView.show()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/TextViewAlertView.swift",
+      "line": 68,
+      "symbol": "TextViewAlertView.dissMiss()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/TextViewAlertView.swift",
+      "line": 75,
+      "symbol": "TextViewAlertView.textViewShouldBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/TextViewAlertView.swift",
+      "line": 83,
+      "symbol": "TextViewAlertView.textViewDidEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 12,
+      "symbol": "alertClicked",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 13,
+      "symbol": "alertClicked.cancel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 14,
+      "symbol": "alertClicked.confirm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 17,
+      "symbol": "CustomAlertView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 30,
+      "symbol": "CustomAlertView.textAlignment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 35,
+      "symbol": "CustomAlertView.titleAlignment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 42,
+      "symbol": "CustomAlertView.operationObservable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 44,
+      "symbol": "CustomAlertView.alertInfo",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 45,
+      "symbol": "CustomAlertView.alertInfo.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 46,
+      "symbol": "CustomAlertView.alertInfo.content",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 47,
+      "symbol": "CustomAlertView.alertInfo.confirmTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 48,
+      "symbol": "CustomAlertView.alertInfo.cancelTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 50,
+      "symbol": "CustomAlertView.alertInfo.init(title:content:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 56,
+      "symbol": "CustomAlertView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 63,
+      "symbol": "CustomAlertView.showCustomAlertView(alertInfo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customAlertView/CustomAlertView.swift",
+      "line": 72,
+      "symbol": "CustomAlertView.hideAlertView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customToastView.swift",
+      "line": 16,
+      "symbol": "toastHandle",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customToastView.swift",
+      "line": 17,
+      "symbol": "customToastView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customToastView.swift",
+      "line": 25,
+      "symbol": "customToastView.resultToastHandle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customToastView.swift",
+      "line": 35,
+      "symbol": "customToastView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customToastView.swift",
+      "line": 140,
+      "symbol": "UIView.showfailMessage(message:handle:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customToastView.swift",
+      "line": 159,
+      "symbol": "UIView.showLoadingMessage(message:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/customToastView.swift",
+      "line": 188,
+      "symbol": "UIView.dissmissLoadingView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 14,
+      "symbol": "InputCodeView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 16,
+      "symbol": "InputCodeView.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 30,
+      "symbol": "InputCodeView.insertTextEndCloser",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 32,
+      "symbol": "InputCodeView.insertTextSingle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 36,
+      "symbol": "InputCodeView.canBecomeFirstResponder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 39,
+      "symbol": "InputCodeView.canResignFirstResponder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 42,
+      "symbol": "InputCodeView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 71,
+      "symbol": "InputCodeView.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 77,
+      "symbol": "InputCodeView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 78,
+      "symbol": "InputCodeView.hasText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 81,
+      "symbol": "InputCodeView.insertText(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 104,
+      "symbol": "InputCodeView.deleteBackward()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/InputCodeView.swift",
+      "line": 119,
+      "symbol": "InputCodeView.deleteAllChar()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/PhoneNumberTextField.swift",
+      "line": 14,
+      "symbol": "PhoneNumberTextField",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/PhoneNumberTextField.swift",
+      "line": 21,
+      "symbol": "PhoneNumberTextField.canPerformAction(_:withSender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/View/phone&codeView/PhoneNumberTextField.swift",
+      "line": 52,
+      "symbol": "PhoneNumberTextField.textField(_:shouldChangeCharactersIn:replacementString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/BossViewController.swift",
+      "line": 11,
+      "symbol": "BossViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/BossViewController.swift",
+      "line": 38,
+      "symbol": "BossViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/BossViewController.swift",
+      "line": 47,
+      "symbol": "BossViewController.popToBeforeViewController()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/BossViewController.swift",
+      "line": 51,
+      "symbol": "BossViewController.traitCollectionDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/BossViewController.swift",
+      "line": 71,
+      "symbol": "BossViewController.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/WhiteNavigationController.swift",
+      "line": 38,
+      "symbol": "WhiteNavigationController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/WhiteNavigationController.swift",
+      "line": 45,
+      "symbol": "WhiteNavigationController.traitCollectionDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/WhiteNavigationController.swift",
+      "line": 120,
+      "symbol": "WhiteNavigationController.navigationController(_:didShow:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/WhiteNavigationController.swift",
+      "line": 123,
+      "symbol": "WhiteNavigationController.navigationController(_:willShow:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UICommon/ViewController/WhiteNavigationController.swift",
+      "line": 159,
+      "symbol": "UINavigationBar.setBackgroundColorAndshowdowColor(BackgroundColor:showdowColor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UploadCommon/QHUpload.swift",
+      "line": 23,
+      "symbol": "Reactive.QHUploadImage(image:domain:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UploadCommon/QHUpload.swift",
+      "line": 42,
+      "symbol": "Reactive.QHUploadImageBoss(image:domain:teamid:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UploadCommon/QHUpload.swift",
+      "line": 62,
+      "symbol": "Reactive.QHUploadImageObservable(data:contentType:TargetType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UploadCommon/QHUpload.swift",
+      "line": 96,
+      "symbol": "Reactive.QHUploadImageArr(images:domain:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UploadCommon/QHUpload.swift",
+      "line": 111,
+      "symbol": "Reactive.QHUploadImageArrBoss(images:domain:teamid:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UploadCommon/QHUpload.swift",
+      "line": 126,
+      "symbol": "Reactive.upload(data:url:policyDict:contentType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UploadCommon/QHUploadMap.swift",
+      "line": 13,
+      "symbol": "QHUploadConfig",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UploadCommon/QHUploadMap.swift",
+      "line": 15,
+      "symbol": "QHUploadConfig.getUploadConfig(domain:filePolicy:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UploadCommon/QHUploadMap.swift",
+      "line": 23,
+      "symbol": "QHUploadConfig",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 10,
+      "symbol": "IdentityStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 11,
+      "symbol": "IdentityStatus.few",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 12,
+      "symbol": "IdentityStatus.missSome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 13,
+      "symbol": "IdentityStatus.done",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 16,
+      "symbol": "BankCardStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 17,
+      "symbol": "BankCardStatus.noCardId",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 18,
+      "symbol": "BankCardStatus.noSome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 19,
+      "symbol": "BankCardStatus.done",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 21,
+      "symbol": "UserInfoModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 23,
+      "symbol": "UserInfoModel.accountId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 24,
+      "symbol": "UserInfoModel.accessToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 25,
+      "symbol": "UserInfoModel.authenticationType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 26,
+      "symbol": "UserInfoModel.bankBranch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 27,
+      "symbol": "UserInfoModel.bankCardFront",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 28,
+      "symbol": "UserInfoModel.bankCardFrontAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 29,
+      "symbol": "UserInfoModel.bankCardFrontUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 30,
+      "symbol": "UserInfoModel.bankCardId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 31,
+      "symbol": "UserInfoModel.bankName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 32,
+      "symbol": "UserInfoModel.birthDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 33,
+      "symbol": "UserInfoModel.cardholderName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 35,
+      "symbol": "UserInfoModel.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 36,
+      "symbol": "UserInfoModel.driveCertificateBackAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 37,
+      "symbol": "UserInfoModel.driveCertificateFrontAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 38,
+      "symbol": "UserInfoModel.driveCertificateInHandAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 39,
+      "symbol": "UserInfoModel.driveCertificateNo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 40,
+      "symbol": "UserInfoModel.expiredAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 41,
+      "symbol": "UserInfoModel.genderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 42,
+      "symbol": "UserInfoModel.handBust",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 43,
+      "symbol": "UserInfoModel.handBustAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 44,
+      "symbol": "UserInfoModel.handBustUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 45,
+      "symbol": "UserInfoModel.headAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 46,
+      "symbol": "UserInfoModel.headPortraitPhoto",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 47,
+      "symbol": "UserInfoModel.headPortraitPhotoUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 48,
+      "symbol": "UserInfoModel.healthCertificate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 49,
+      "symbol": "UserInfoModel.healthCertificateAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 50,
+      "symbol": "UserInfoModel.healthCertificateBack",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 51,
+      "symbol": "UserInfoModel.healthCertificateBackAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 52,
+      "symbol": "UserInfoModel.healthCertificateBackUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 53,
+      "symbol": "UserInfoModel.healthCertificateEffectDays",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 54,
+      "symbol": "UserInfoModel.healthCertificateEnd",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 55,
+      "symbol": "UserInfoModel.healthCertificateInHand",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 56,
+      "symbol": "UserInfoModel.healthCertificateInHandAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 57,
+      "symbol": "UserInfoModel.healthCertificateInHandUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 58,
+      "symbol": "UserInfoModel.healthCertificateNo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 59,
+      "symbol": "UserInfoModel.healthCertificateStart",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 60,
+      "symbol": "UserInfoModel.healthCertificateUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 61,
+      "symbol": "UserInfoModel.idcardBackAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 62,
+      "symbol": "UserInfoModel.idcardEndDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 63,
+      "symbol": "UserInfoModel.idcardFrontAssetId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 64,
+      "symbol": "UserInfoModel.idcardStartDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 65,
+      "symbol": "UserInfoModel.idcardType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 66,
+      "symbol": "UserInfoModel.identityCardBack",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 67,
+      "symbol": "UserInfoModel.identityCardBackUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 68,
+      "symbol": "UserInfoModel.identityCardFront",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 69,
+      "symbol": "UserInfoModel.identityCardFrontUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 70,
+      "symbol": "UserInfoModel.identityCardId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 71,
+      "symbol": "UserInfoModel.isFirstLogin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 72,
+      "symbol": "UserInfoModel.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 73,
+      "symbol": "UserInfoModel.national",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 74,
+      "symbol": "UserInfoModel.nickname",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 75,
+      "symbol": "UserInfoModel.operatorId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 76,
+      "symbol": "UserInfoModel.phone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 77,
+      "symbol": "UserInfoModel.refreshToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 78,
+      "symbol": "UserInfoModel.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 79,
+      "symbol": "UserInfoModel.temporaryIdcardEffectDays",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 80,
+      "symbol": "UserInfoModel.updateMerchantHealthCertificate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 81,
+      "symbol": "UserInfoModel.updatedAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 82,
+      "symbol": "UserInfoModel.walletInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 83,
+      "symbol": "UserInfoModel.wechatAccount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 85,
+      "symbol": "UserInfoModel.healthCardIsOk",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 86,
+      "symbol": "UserInfoModel.bankCardIsOk",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 87,
+      "symbol": "UserInfoModel.bankLocation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 88,
+      "symbol": "UserInfoModel.gender",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 97,
+      "symbol": "UserInfoModel.identityType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 120,
+      "symbol": "UserInfoModel.bankCardStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModel.swift",
+      "line": 138,
+      "symbol": "UserInfoModel.init(fromJson:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelConfig.swift",
+      "line": 10,
+      "symbol": "UserInfoModelConfig",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelConfig.swift",
+      "line": 12,
+      "symbol": "UserInfoModelConfig.userInfoModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelConfig.swift",
+      "line": 13,
+      "symbol": "UserInfoModelConfig.h5",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelConfig.swift",
+      "line": 14,
+      "symbol": "UserInfoModelConfig.mqtt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelConfig.swift",
+      "line": 15,
+      "symbol": "UserInfoModelConfig.pushu",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelConfig.swift",
+      "line": 16,
+      "symbol": "UserInfoModelConfig.ums",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelConfig.swift",
+      "line": 22,
+      "symbol": "UserInfoModelConfig.init(fromJson:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelH5.swift",
+      "line": 10,
+      "symbol": "UserInfoModelH5",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelH5.swift",
+      "line": 13,
+      "symbol": "UserInfoModelH5.url",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelH5.swift",
+      "line": 18,
+      "symbol": "UserInfoModelH5.init(fromJson:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelMqtt.swift",
+      "line": 9,
+      "symbol": "UserInfoModelMqtt",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelMqtt.swift",
+      "line": 23,
+      "symbol": "UserInfoModelMqtt.init(fromJson:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelWalletInfo.swift",
+      "line": 10,
+      "symbol": "UserInfoModelWalletInfo",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/Model/UserInfoModelWalletInfo.swift",
+      "line": 28,
+      "symbol": "UserInfoModelWalletInfo.init(fromJson:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonModel.swift",
+      "line": 11,
+      "symbol": "UMSCommonModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonModel.swift",
+      "line": 13,
+      "symbol": "UMSCommonModel.accessKey",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonModel.swift",
+      "line": 14,
+      "symbol": "UMSCommonModel.accessToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonModel.swift",
+      "line": 15,
+      "symbol": "UMSCommonModel.accountId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonModel.swift",
+      "line": 16,
+      "symbol": "UMSCommonModel.appId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonModel.swift",
+      "line": 17,
+      "symbol": "UMSCommonModel.expiredAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonModel.swift",
+      "line": 18,
+      "symbol": "UMSCommonModel.refreshToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonModel.swift",
+      "line": 19,
+      "symbol": "UMSCommonModel.secretKey",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonViewModel.swift",
+      "line": 17,
+      "symbol": "UMSCommonViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonViewModel.swift",
+      "line": 19,
+      "symbol": "UMSCommonViewModel.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonViewModel.swift",
+      "line": 21,
+      "symbol": "UMSCommonViewModel.getUmsConfig",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonViewModel.swift",
+      "line": 23,
+      "symbol": "UMSCommonViewModel.outPutUMSModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonViewModel.swift",
+      "line": 25,
+      "symbol": "UMSCommonViewModel.outPutUMSModelError",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonViewModel.swift",
+      "line": 27,
+      "symbol": "UMSCommonViewModel.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UmsModelCommon/UMSCommonViewModel.swift",
+      "line": 45,
+      "symbol": "CacheManager.UMSModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UserModelManager.swift",
+      "line": 12,
+      "symbol": "UserModelManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios/Pods/boss-common-ios/boss-common-ios/Classes/UserModelCommon/UserModelManager.swift",
+      "line": 14,
+      "symbol": "UserModelManager.manager",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/gaoyanghui/Desktop/code/aoao-boss-ios"
+}
